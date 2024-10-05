@@ -10,7 +10,7 @@ Todas as aplicações foram desenvolvidas em **.NET Core 6.0** e rodam dentro de
 
 ## Arquitetura da Solução
 </br>
-<img src="https://github.com/pietrodeluca1997/cash-flow/blob/master/documents/Cash%20Flow%20Solution%20Architecture.drawio.png?raw=true" />
+<img src="https://github.com/pietrodeluca1997/fluxo-de-caixa/blob/main/documents/Cash%20Flow%20Solution%20Architecture.drawio.png?raw=true" />
 </br>
 
 ## Segunda Possibilidade: Cálculo Dinâmico do Saldo
